@@ -1,0 +1,37 @@
+"""Export products from the SQLite database to data.json.
+
+The original ``data.json`` contained only a few hard‑coded items, so the web
+page displayed an incomplete catalogue.  This script reads the full product list
+from ``shop.db`` (created by ``generate_db.py``) and writes a JSON file in the
+format expected by the front‑end:
+
+```json
+{ "Товары": [ {"назва": "<title>", "фото": "<photo>"}, ... ] }
+```
+
+Only the title and photo fields are exported, but the script can be extended to
+include additional columns if needed.
+"""
+
+import json
+import sqlite3
+from pathlib import Path
+
+DB_PATH = Path(__file__).with_name("shop.db")
+JSON_PATH = Path(__file__).with_name("data.json")
+
+
+def export_to_json() -> None:
+    conn = sqlite3.connect(DB_PATH)
+    try:
+        cur = conn.execute("SELECT title, photo FROM products")
+        items = [{"назва": title, "фото": photo or ""} for title, photo in cur.fetchall()]
+    finally:
+        conn.close()
+
+    JSON_PATH.write_text(json.dumps({"Товары": items}, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Exported {len(items)} products to {JSON_PATH}")
+
+
+if __name__ == "__main__":
+    export_to_json()
