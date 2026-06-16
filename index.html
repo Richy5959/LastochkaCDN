@@ -11,40 +11,40 @@
 </head>
 <body>
     <h1>Склад "Ласточка"</h1>
-    <div id="status">Загрузка...</div>
+    <div id="status">Загрузка данных...</div>
     <div id="products" class="grid"></div>
 
     <script>
-        const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyCUjjl1VKYiRwTG59Bnk5cLwFdVY_hCbiUpqwLtVt04zgF1NmX-1DETYAkeHRZEoDt/exec"; 
+        // ВСТАВЬ СЮДА НОВУЮ ССЫЛКУ ИЗ ГУГЛА:
+        const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyCUjjl1VKYiRwTG59Bnk5cLwFdVY_hCbiUpqwLtVt04zgF1NmX-1DETYAkeHRZEoDt/exec";
 
-        function getFullCdnUrl(explicitImgPath) {
-            const baseUrl = "https://raw.githubusercontent.com/Richy5959/LastochkaCDN/main/data";
-            if (!explicitImgPath || explicitImgPath === "—") return "";
-            return `${baseUrl}/${explicitImgPath.trim().split('/').map(p => encodeURIComponent(p)).join('/')}`;
+        async function init() {
+            try {
+                const response = await fetch(WEB_APP_URL);
+                const storeData = await response.json();
+                
+                document.getElementById('status').style.display = 'none';
+                const container = document.getElementById('products');
+                const firstCat = Object.keys(storeData)[0];
+                
+                storeData[firstCat].forEach(item => {
+                    const imgPath = item["фото"];
+                    // Если путь не пустой, формируем ссылку на raw-файл в Гитхабе
+                    const imgUrl = imgPath ? "https://raw.githubusercontent.com/Richy5959/LastochkaCDN/main/" + imgPath : "";
+                    
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                        ${imgUrl ? `<img src="${imgUrl}" style="width:100%; height:150px; object-fit:cover;">` : ''}
+                        <p>${item["назва"]}</p>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (err) {
+                document.getElementById('status').innerText = "Ошибка: " + err.message;
+            }
         }
-
-        // Эта функция вызовется, когда данные придут от Гугла
-        function handleData(storeData) {
-            document.getElementById('status').style.display = 'none';
-            const container = document.getElementById('products');
-            const firstCat = Object.keys(storeData)[0];
-            
-            storeData[firstCat].forEach(item => {
-                const imgUrl = getFullCdnUrl(item["фото"]);
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.innerHTML = `
-                    <img src="${imgUrl}" style="width:100%; height:150px; object-fit:cover;">
-                    <p>${item["назва"]}</p>
-                `;
-                container.appendChild(card);
-            });
-        }
-
-        // Запуск JSONP запроса
-        const script = document.createElement('script');
-        script.src = WEB_APP_URL + "?callback=handleData";
-        document.body.appendChild(script);
+        init();
     </script>
 </body>
 </html>
