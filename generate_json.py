@@ -24,8 +24,15 @@ JSON_PATH = Path(__file__).with_name("data.json")
 def export_to_json() -> None:
     conn = sqlite3.connect(DB_PATH)
     try:
-        cur = conn.execute("SELECT title, photo FROM products")
-        items = [{"назва": title, "фото": photo or ""} for title, photo in cur.fetchall()]
+        # Export title and construct image filename from product code.
+        # Export title, price and construct image filename from product code.
+        cur = conn.execute("SELECT title, code, price FROM products")
+        items = []
+        for title, code, price in cur.fetchall():
+            img_path = f"{code}.jpg" if code else ""
+            # Format price as integer if possible, otherwise keep raw value
+            price_display = int(price) if isinstance(price, (int, float)) and price.is_integer() else price
+            items.append({"назва": title, "фото": img_path, "цена": price_display})
     finally:
         conn.close()
 

@@ -1,0 +1,511 @@
+Error uploading Трусики еротичні "Лілія", різні кольори. Код: А20: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический набор бордо, S, M, L, XL. Код: А69: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальний комплект с вишивкою, S. Код: А166: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Еротичний комплект кольору ізумруд, L. Код: А170: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Еротичний комплект в сітку. Код: А183: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Червоні еротичні колготки з доступом. Код: А195: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Боді на тіло еротичне. Код: А206829: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики еротичні з доступом. Код: А208: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект еротичний. Код: А212: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект еротичний, L. Код: А213: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Еротичні трусики з бусинами. Код: А214: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чоловічі стрінги з вирізом. Код: А217: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К104: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К106: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К109: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К110: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К114: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К115: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К116: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К117: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К124: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панчохи еротичні. Код: К125: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Настільна гра "Ти + Я" для двох 18+. Код: А156: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мотузка для BDSM ігор 10 метрів. Код: А158: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пестіси (наліпки на груди) чорні. Код: А159: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Паддл чорно-червоний для BDSM ігор. Код: А162: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чоловічий капелюх циліндр високий. Код: А173: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Жіноча карнавальна маска "Леді Х". Код: А174: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чоловіча карнавальна маска "Містер Х". Код: А175: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Брошка-заколка "Кармен" 20 см. Код: А176: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кляп. Код: А178: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Свічі низкотемпературні. Код: А181: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Наручники для рольових ігор. Код: А182: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чокер на шию. Код: А189: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Брелок на ключі BDSM лого триксель. Код: А191: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Шестигранний кубик Пози для дорослих ігор. Код: А192: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Маска кішки на регульованій резинці. Код: А194: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading BDSM маска на очі. Код: А196: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Флогер (батіг) для дорослих ігор. Код: А198: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading БДСМ затискачі для сосків на ціпку. Код: А199: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Розкішна жіноча маска Кішка у стразах. Код: А201: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Повідець (нашийник) для BDSM ігор. Код: А205: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading BDSM кляп. Код: А207: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бондажна стрічка для BDSM ігор. Код: А220: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики от комплектов. Код: Т1: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские новогодние трусики, разные. Код: А177: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини Coeur Joie, S, M, L. Код: Т2: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики микрофибра с V-образной талией. Код: Т3: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Набор стрингов из 3 шт.: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Набор стрингов из 3 шт.: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Боксёры мужские GUCCI, L, XL, 2XL. Код: Т8: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини Coeur Joie, S, M, L. Код: Т9: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини Coeur Joie, S, M, L. Код: Т10: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики в стиле Victoria's Secret, M, L, XL. Код: Т11: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики ХL, 2XL, 3XL. Код: Т16: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальные трусики бикини, M, L, XL. Код: Т18: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики женские разные цвета, 2XL, 3XL, 4XL. Код: Т24: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Панталоны женские черные. Код: Т26: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные прозрачные стринги, р.42-44. Код: Т27: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые трусики XL, 2XL, 3XL. Код: Т28: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики с кружевными вставками 4XL. Код: Т29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Боди со стрингами с коррекцией. Код: Т30: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Высокие бежевые трусики с утяжкой, M, L, XL. Код: Т31: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Cтринги-утяжка высокие, L, XL, 2XL. Код: Т32: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые стринги Annajolly, S, M, L, XL. Код: Т33: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые бразильяны Annajolly, S, M, L. Код: Т34: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики-утяжки высокие, два цвета. Код: Т35: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые трусики с кружевными вставками 6XL, 7XL. Код: Т36: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики утяжка, размер free (46-50). Код: Т38: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские новогодние трусы, XL, 2XL, 3XL, 4XL. Код: Т39: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы боксеры Under Armour, XL, 2XL. Код: Т40: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские семейные трусы больших размеров. Код: Т43: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы плавки, один размер. Код: Т46: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные кружевные стринги в стиле VS, M, L, XL. Код: Т47: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные прозрачные трусики стринг, р.44-46. Код: Т48: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги, размеры S, M, L: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, ХL, 2ХL, 3ХL, 4ХL. Код: Т53: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики женские, 3XL, 4XL, 5XL. Код: Т54: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, размер 44-46 (M): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Боксёры бамбук Секс Камасутра, 3XL, 4XL. Код: Т62: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы стринги кружевные: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы боксёры 6XL. Код: Т68: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики эротические с брюликом. Код: Т69: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы для мальчиков 3-6 лет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы боксеры, L, XL, 2XL, 3XL. Код: Т71: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики подростковые с леоп.вставкой (42-44): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Боксёры для мальчиков 9-14 лет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бразильяны х/б с V-образной линией талии. Код: Т75: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики в стиле VS, 4 расцветки, M, L, XL. Код: Т76: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики в стиле Victoria's Secret, M, L, XL. Код: Т77: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые стринги AnnaJolly ажурные. Код: Т80: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики кружевные спереди х/б: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики-танга в стиле VS, в черном цвете. Код: Т85: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские Боксеры стрейчевые бамбук: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские боксеры стрейчевые (баталы): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, ассорти цветов, 2XL, 3XL, 4XL. Код: Т88: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Плавки подростковые х/б (Германия): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские трусы с утяжкой живота белые: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевные женские трусы х/б, р.48-50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы с утяжкой (Германия), белые, бежевые: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Ажурные стринги с выбитым узором, р. 85-103 (L-XL): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Ажурные стринги с выбитым узором, р. 85-103 (L-XL): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Ажурные стринги "Тюльпан" M, L, XL: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские трусики стринги вязка с узором, р.44-48: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики-бразильяны кружевные черного цвета. Код: Т103: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские боксеры Columbia, 2XL, 3XL. Код: Т104: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские боксеры Diesel, L, XL, 2XL, 3XL. Код: Т105: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Боксеры Lacoste, L, XL, 2XL, 3XL. Код: Т110: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики-танга, р. 40-42-44 (L-XL): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы х/б (Италия), белые, р.50-52: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы "Однотонные гипюровый кант" р. 46-50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики слипы микрофибра, XL, 2XL, 3XL. Код: Т116: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини в полоску р. 46-48 (2XL): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модные трусики с тонкой боковой резинкой. Код: Т119: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Шикарные ажурные трусики. Код: Т120: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики х/б с гипюром разных цветов, р.46-50 (XL-2XL): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Хлопковые трусики "Гипюровая полоса" р. XL-2XL: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальные трусики с открытым доступом. Код: Т126: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики с открытым доступом. Код: Т128: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики слипы PINK, M, L. Код: Т129: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики стринги Coeur Joie. Код: Т133: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молочные трусики стринги, L, XL, 2XL. Код: Т135: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Атласные бразилианы, все цвета, L, XL, 2XL. Код: Т136: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские хлопковые трусы-слип 46-50 (218): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини, три цвета. Код: Т138: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гладкие трусики бикини, S, M, L, XL. Код: Т139: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики 40-50 (0542): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Три цвета, трусики бикини, S, M, L, XL. Код: Т142: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красивые трусики, два цвета, M, L, XL, 2XL. Код: Т143: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бразильяны, два цвета, L, XL, 2XL. Код: Т144: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красные трусики стринг эротические, р.42-44. Код: Т148: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики бикини, S, M, L, XL. Код: Т150: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гипюровые трусы шорты: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики бикини, S, M, L, XL. Код: Т152: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусы стринги "Пятнистые" р. 46-50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини, три цвета. Код: Т155: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики бикини. Код: Т156: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги, два цвета. Код: Т157: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги, два цвета. Код: Т158: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы плавки 46-50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги, три цвета, S, M, L, XL. Код: Т160: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги, два цвета. Код: Т163: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики американки на регуляторах, два цвета. Код: Т164: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги с кружевом XL, разные цвета. Код: Т168: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские плавки INDENA. Код: Т170: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Подростковые плавки INDENA. Код: Т171: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мальчуковые плавки IN.INCONT. Код: Т172: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики слипы, S, M, L. Код: Т179: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики американки, M, L, XL. Код: Т180: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Хлопковые трусики на детей 2-3 лет. Код: Т181: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевные женские трусики, 44, 46, 48. Код: Т222: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные боксёры Calvin Klein 3XL. Код: Т223: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики джинсовый принт. Код: Т:237: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Неоновые трусики-американки с гипюром, р.L. Код: Т238: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские стринги Calvin Klein, L с красной резинкой. Код: Т253: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики Coeur Joie, три цвета. Код: Т263: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики бикини Coeur Joie. Код: Т264: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги "Огородик". Код: Т270: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные стринги с проклеенными швами на тонких резинках. Код: Т271: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики-бразильяны, кофейные. Код: Т272: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные бразильяны с V-образным вырезом. Код: Т273: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Спортивные стринги 42-44, 46-48. Код: Т280s: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Хлопковые трусики бразильяны, S-M, L-XL. Код: Т281: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бежевые трусики бразильяны, M, L, XL. Код: Т282: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские трусики "Покемоны". Код: Т283: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские трусики-шорты "Белоснежка". Код: Т285: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики-шортики "Даша". Код: Т286: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики коттоновые с кружевом сверху. Код: Т289: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики стринги, L, XL, 2XL. Код: Т290: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Хлопковые трусики, 2XL, 3XL, 4XL (50, 52, 54). Код: Т291: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Коттоновые трусики стринги, S, M, L. Код: Т292: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молодежные трусики. Код: Т303: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги с высокой талией, M. Код: Т304: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики из хлопка, M, L, XL, 2XL. Код: Т305: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики эротические, M. Код: Т309: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики Anttifu, все расцветки. Код: Т310: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики-шорты кружевные х/б, 48-50. Код: Т327: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики х/б бразильяна, L. Код: Т330: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини, три цвета. Код: Т333: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Хлопковые трусики стринги с кружевом, р.46, 48, 50. Код: Т334: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики. Код: Т341: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики утягивающая сетка. Код: Т353: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бразильяны, р. М. Код: Т358: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики. Код: Т363: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Три цвета, трусики стринги, S, M, L, XL. Код: Т365: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини черные, S, M, L. Код: Т366: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевные трусики бразильяны, M. Код: Т367: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные трусики бразильяны, M. Код: Т369: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики танга кружевная попа, M, L. Код: Т370: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Cтринги с камушком, два цвета, M, L, XL. Код: Т376: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики хлопок, 3XL, 4XL, 5XL. Код: Т381: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики хлопок, 2XL, 3XL, 4XL. Код: Т382: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, S, M, L. Код: Т383: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевные стринги, три цвета, S, M, L. Код: Т385: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини,р. 44-48. Код: Т386: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини, р. 44-48. Код: Т387: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики слипы хлопок, XL, 2XL, 3XL. Код: Т390: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Реплика стринги Calvin Klein хлопок: S, M. Код: Т391: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини два цвета, S, M, L. Код: Т394: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальные трусики бразильяны. Код: Т395: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Коттоновые трусики слипы. Код: Т397: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, р.54, 56, 58 (2XL, 3XL, 4XL). Код: Т398: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, р. 52, 54, 56 (4XL, 5XL, 6XL). Код: Т399: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, р. 44, 46, 48 (L, XL, 2XL). Код: Т401: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики, р.L, XL, 2XL. Код: Т402: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молочные трусики бикини, S, M, L, XL. Код: Т403: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини Annajolly цвета шампань. Код: Т404: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини Annajolly, три цвета. Код: Т405: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые трусики бикини Annajolly. Код: Т406: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красные трусики бикини Annajolly. Код: Т407: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини Annajolly черного цвета. Код: Т408: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини 3XL, 4XL, 5XL, разные цвета. Код: Т409: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини 46, 48, 50, разные цвета. Код: Т410: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини S-M, L-XL, разные цвета. Код: Т411: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики микрофибра M, L, XL, разные цвета. Код: Т412: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики хлопок M, L, XL, разные цвета. Код: Т413: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные трусики микрофибра, р. M. Код: Т414: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики хлопок два цвета, р. M. Код: Т415: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы Calvin Klein резинка люрекс 3XL. Код: Т416: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы Calvin Klein черная резинка 2XL. Код: Т417: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы Tommy Hilfiger 3XL. Код: Т418: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы Kenzo L, XL, 2XL. Код: Т419: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевные трусики, M, L, XL. Код: Т421: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики из хлопка, S/M, L/XL. Код: Т422: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики в широкий рубчик, S, M, L. Код: Т423: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Леопардовые стринги 2-х расцветок, L, XL . Код: Т425: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы семейные, L, XL, 2XL. Код: Т426: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные стринги в сетку. Код: Т427: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Стринги 2XL, 3XL, 4XL. Код: Т428: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики с высокой посадкой 3XL, 4XL. Код: Т429: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги 2XL, 3XL, 4XL. Код: Т430: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красные трусики с открытым доступом, р.46-48. Код: Т431: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Полупрозрачные стринги, р.42-46. Код: Т432: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики с доступом, черные и красные, S-M. Код: Т433: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красные стринги, M, L, XL, 2XL. Код: Т434: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бикини с бантиком, два цвета. Код: Т435: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые трусики бикини, S, M, L, XL. Код: Т436: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Х/б боксерки удлиненные, S, M, L, XL, 2XL. Код: Т437: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские черные х/б боксерки, S, M, L, XL. Код: Т438: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Х/б боксерки однотонные, 4XL, 5XL. Код: Т439: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Х/б боксеры в полоску, 6XL. Код: Т440: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские трусы боксеры со светлой резинкой, 4XL. Код: Т441: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бразильяны в 3-х расцветках. Код: Т442: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бразильяны в 2-х расцветках. Код: Т443: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики стринги S-M, L-XL в разных расцветках. Код: Т444: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики бразильяны в 2-х расцветках. Код: Т445: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трусики слипы в 2-х расцветках. Код: Т446: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект Your Touch "Madonna" в чашці 80В, трусики-хіпстери M. Код: YT1: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модный комплект с пуш-ап чашкой B80. Код: А95: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект без косточки чашка В, три цвета. Код: С8: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Литой комплект Victoria's Secret в чашках В и С. Код: С11: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный ажурный комплект в чашке D. Код: С17: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект с пуш-апом, чашка С. Код: С24: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект белья Weiyesi, чашка B. Код: С30: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный сексуальный комплект, размеры S, L. Код: С43: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Синий комплект чашка С. Код: С48: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Синий комплект Calvin Klein черная резинка. Код: С50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект реплика Victoria's Secret. Код: С55: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Нарядный комплект в чашке C, разные цвета. Код: С60: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гладкий комплект без косточек, разные цвета. Код: С63: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект Victoria's Secret чашка В, два цвета. Код: С77: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект нижнего белья чашка В. Код: С84: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Малиновый кружевной комплект белья. Код: С91: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект нижнего белья. Код: С94: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект нижнего белья. Код: С96: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Прозрачный боди с перьями, два цвета. Код: С99: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект цвета бордо чашка С. Код: С100: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гладкий комплект Victoria's Secret чашка С. Код: С102: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кожаный пуш-ап комплект в чашке С. Код: С115: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кожаный пуш-ап комплект со стрепами чашка В. Код: С116: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический комплект цвета бордо, чашка В. Код: С131: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект с вышивкой чашка С. Код: С134: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пуш-ап комплект чашка В, цвет хаки. Код: С139: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект пушап чашка В, два цвета. Код: С141: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект большой пушап чашка В, черный. Код: С144: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект с кружевными бретелями. Код: С146: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бюстгальтеры балконет в пуш-ап чашке С. Код: С147: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект чашка С, два цвета. Код: С149: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пуш-ап комплект с литым бюстом, два цвета. Код: С152: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект в чашке В. Код: С156: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный комплект чашка В. Код: С158: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект белья в пуш-ап чашке В. Код: С169: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молочный комплект чашка С. Код: С175: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красивый черный комплект чашка D. Код: С177: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект со стрингами чашка В. Код: С179: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевной комплект цвета бордо. Код: С181: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белый комплект без косточки чашка В. Код: С183: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Кружевной комплект Кривой Рог. Код: С185: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Соблазнительный комплект белья. Код: С189: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Невероятно красивый комплект пуш-ап чашка В. Код: С190: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект в рубчик со съемным поролоном, на чашку С. Код: С198: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красивый комплект чашка 80B. Код: С199: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белый комплект чашка С. Код: С203: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект коттон тройка Victoria's Secret. Код: С205: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Нарядный комплект в чашке D. Код: С209: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект с литой чашечкой, и корректором. Код: С212: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект без косточки с пуш-ап. Код: С216: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект в рубчик с кружевом, М, L, XL. Код: С221: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальный комплект тройка, два цвета. Код: С222: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект с бюстье-балконет корсетного типа. Код: С223: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект пуш-ап чашка В, разные цвета. Код: С228: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект с корректором чашка С. Код: С236: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белый комплект: бралетт и трусики. Код: С246: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Супер сексуальный кружевной комплект. Код: С257: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект тонкий пуш, чашка С. Код: С261: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект c гель пуш-ап чашка В. Код: С263: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект без косточки, чашка B. Код: С265: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женский комплект чашка С. Код: С266: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект в рубчик в 2-х цветах, размеры M и L. Код: С273: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект белья в чашке Е. Код: С292: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молочный комплект на пушапе, чашка В. Код: С303: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект пушап чашка В, два цвета. Код: С305: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Шикарный комплект с поясом для чулок, S, M, L. Код: С308: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический комплект тройка, M, L, XL. Код: С316: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черно-бежевый комплект чашка С. Код: С320: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический комплект-тройка. Код: С324: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальный комплект белья в сетку. Код: С326: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бежево-черный эротический комплект белья. Код: С353: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный сексуальный комплект белья, S, L. Код: С356: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красивый комплект в чашке В цвета пудра. Код: С360: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Еротичний комплект білизни, M, L, XL. Код: С362: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический боди, M, L, XL. Код: С363: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный эротический комплект, M, L, XL. Код: С364: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молодежный комплект пушап чашка В, два цвета. Код: С368: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект, с трусиками бразильяна в 2х цветах. Код: С378: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белый комплект-спейсер в чашке D. Код: С381: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект в рубчик со вшитым поролоном на чашку A-B. Код: С383: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Три расцветки. Комплект в чашке С. Код: С384: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черно-бежевый комплект без косточек в чашке В. Код: С386: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Ажурный белый комплект чашка Д. Код: С392: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальный комплект цвета фукция, M. Код: С393: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красивый красный комплект, 75B, 75С. Код: С397: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Нарядный комплект в 2х цветах, 75D, 85D. Код: С398: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект чашка В, два цвета. Код: С399: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект чашка С, черного цвета. Код: С400: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красный эротический комплект, S, M, L. Код: С402: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный комплект чашка В без поролона. Код: С406: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Стильный комплект в рубчик, р.48 на чашку С. Код: С410: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический комплект из прозрачной сетки, S, M. Код: С417: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Прелестный комплект на чашку D, два цвета. Код: С421: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект в рубчик с несъемным поролоном. Код: С422: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Топ-комплект в микрорубчик со съемным поролоном. Код: С423: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект без поролона на чашку С, в 2-х расцветках. Код: С425: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пушап комплект на чашку В, в 2-х цветах. Код: С426: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект без поролона на чашку D, в 3-х расцветках. Код: С428: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Эротический комплект белья в сеточку, S, L. Код: С429: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Роскошный эротический комплект в 2х расцветках. Код: С430: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пляжные плавки с небольшой драпировкой сзади. Код: КУ20: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пляжные трусики чаечки черные, р. 36, 38, 40, 42, 44. Код: КУ21: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Купальник "Загадочная мисс", красный, S-XL. Код: КУ23: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные пляжные трусики американки, 36, 38, 40, 42, 44. Код: КУ24: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Купальник с корректором "Манго-микс", М, XL. Код: КУ25: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Купальник раздельный с пушап, два цвета. Код: КУ27: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Купальник с корректором "Цветочки", S, М, XL. Код: КУ28: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Желто-синий купальник с push-up. Код: КУ29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Оранжевый купальник молодежный, р.36, 38, 40, 42. Код: КУ35: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Мужские пляжные боксеры, р. 48, 50, 52, 54, 56. Код: КУ42: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Оранжевый женский купальник, 36, 38, 40, 42, 44. Код: КУ43: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские пляжные трусики чаечки. Код: КУ44: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Купальник в стиле Victoria's Secret, р. 38, 40, 42, 44, 46. Код: КУ47: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские пляжные стринги на завязках. Код: КУ54: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сплошной молодежный купальник. Код: КУ58: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Стильный черный купальник с топом. Код: КУ61: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модный молодежный купальник, два цвета. Код: КУ62: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красный купальник, р. 42, 44. Код: КУ63: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модный купальник с топом. Код: КУ67: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Сексуальный яркий купальник S/M. Код: КУ69: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Молодежный купальник S/M. Код: КУ70: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Красный бюстик купальника с пуш-ап чашкой 70В. Код: КУ72: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модный пуш-ап купальник со стразами. Код: КУ74: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Купальник с топом, яркий бирюзовый жатка. Код: КУ75: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Яркий купальник с топиком жатка. Код: КУ76: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Синий купальник со стразами LOVE ME. Код: КУ78: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модные купапальники, три расцветки. Код: КУ80: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный молодежный раздельный купальник. Код: КУ81: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Халатик для дома. Код: Д28: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Костюм трехнитка Barbie, S, M. Код: Д60: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Шикарная велюровая пижама VS. Код: Д61: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пижама Gucci цвета бордо, S, M. Код: Д70: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Стильная персиковая накидка для дома. Код: Д71: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Темно-синий комплект: футболка и шорты, S, M, L. Код: Д81: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект для дома из 4-х единиц, S, M, L. Код: Д86: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Синяя мужская махровая пижама, р.56. Код: Д90: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женский комплект: халатик с пижамой, р.42. Код: Д92: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черный мужской махровый костюм с капюшоном, р.52. Код: Д93: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женская коричневая махровая пижама, р.42, 54 (маломерит). Код: Д96: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женский черный махровый домашний костюм на молнии, р.46. Код: Д97: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женская махровая пижамка "Леон" р.42, 54. Код: Д98: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Махровая пижама с воротником цвета фуксия, р.44. Код: Д99: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женская махровая пижама с манжетами "Снежный барс", р.42, 46, 50. Код: Д100: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женский короткий махровый халатик "Шиншилла", р.42. Код: Д113: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Стильная махровая пижама для дома, р.S. Код: Д117: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черная пижамка из вискозы, р.М. Код: Д120: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Трикотажная пижама из кофты и брюк, р.S. Код: Д125: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Велюровый комплект цвета пудра, р.М, L, XL. Код: Д127: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Пушап велосипедки в рубчик. Код: К119: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные лосины пушап в широкий рубчик. Код: К120: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные лосины пушап рубчик. Код: К122: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Комплект зимової термобілизни Columbia батал. Код: Д23: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Жіноча термобілизна Smartov, розмір S. Код: Д50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чоловічий комплект термобілизни з додаванням вовни. Код: Д77: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чоловічий комплект термобілизни на мікрофлісі. Код: Д78: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Жіночий комплект термобілизни з додаванням вовни. Код: Д79: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Жіночий комплект термобілизни на мікрофлісі. Код: Д80: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Термобілизна тактична кольору олива, розмір L. Код: Д129: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Термобілизна чоловіча зимова, 2XL, 3XL. Код: Д130: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Термобілизна чоловіча камуфляж, L, XL. Код: Д131: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки мужские Житомир сетка Класик, размер 29-31: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки подросток BFL 32-35 размер BFL B253: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки женские ИРА бамбук в полоску 36-41 р.: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки женские Pesail 37-42 р.: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки подростковые: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носочки шерстяные с махрой  "Ангора" 34-38 р.: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носочки детские из ангоры с махрой, р.16-20см: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носочки детские махровые, р.17-22 см: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки лайкра Elizabeth 30DEN, Черный (2 пары в упаковке, цена за пару): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Капроновые носки с узором, р. 38-42 (2 пары в упаковке, цена за пару): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Капроновые носки Soli 20DEN без лайкры, уплотненный носок и мягкая резинка: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гольфы Elizabeth 30DEN лайкра: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские зимние махровые носки, модные, для девочек: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские махровые носочки, "Котики" с 3 до 6 лет, р.32-37: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Махровые женские носочки на зиму "Бантики", "Олени": 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки короткие стрейчевые, спортивные носки, р.27-29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Шикарные женские гольфы, размер 35/40: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Качественные гольфы на девочку 5-7 лет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Яркие женские носки в полоску, (бамбук) размер 37-42: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Махровые носки женские носочки "Bony": 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки мужские "Носки с чёрные" классика хлопок: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские трикотажные носки "Мода Women", р.36-42: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Махровые женские носочки "Олени-ёлки", р.36-40: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Короткие женские носки, р.36-42, разноцвет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Махровые детские носочки "Мишутка", р.16-22, 22-28, 28-34, разноцвет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские носочки "Натали", р.37-42, разноцвет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Белые мужские носки "Укороченные" р.27, р.29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бежевые мужские носки гладкие "Классик" р.29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Тёмно-серые мужские носки "Классик" р.27: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Светло-серые мужские носки "Классик" р.29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чёрные мужские носки гладкие "Классик" р.25, 27, 29, 31: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чёрные мужские махровые носки "Классик" р.25, 27, 29, 31: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чёрные мужские махровые носки "Элегант" р.27, 31: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чёрные мужские носки сетка "Классик" р.25, 27, 29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Серые мужские носки сетка "Классик" р.27: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Чёрные мужские носки "Спорт" р.25, 29, 31: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носки "Трекинговые" р.25, 29: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Черные женские носки укороченные "Классик", р.23-25: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Носочки женские серии "Панда", р.23-25: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские колготки Конте-Кидз: Class, Bravo, Tip-Top. . Код: К6: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские колготки Gatta Happy School: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 100DEN MICROFIBRE, Черный, р.2, 3, 4, 5: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки 20 den бикини 004EL: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40 den BIKINI CHARM, Черный, р.2, 3, 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские теплые 1600 den 2022KOL (прибл. 2-3 размер): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки детские "Ласточка". Код: К19: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Лосины детские теплые, возраст 3-7 лет: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gabriella Julia 366 (20 den) тёмно-серые, бежевые, р.4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gabriella Reni 286, чёрные, р. 1/2: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gabriella Puntina TRE (20 den) тёмно-серые,  р. 2: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gabriella Miss 105 (20 den) белые,  р. 2, 3, 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gatta Gabby №6 (20 den) чёрные,  р. 3: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gabriella Bacara 477 (20 den), чёрные,  р. 2, 3, 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Gatta Nadette №1 (20 den), чёрные, р. 2, 3, 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки женские Conte Verticale, черные, р. 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские колготки Gatta Alice, белые, р. 116-126 (A): 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские леггинсы Mona Nikola leggins, розовые: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские колготки Gabriella Melange 751,  цвет графит, р.110-122: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гольфы женские Gatta, черные, серые: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские колготки Bravo, р. 116-122, 150-152: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Леггинсы детские Viva с декором , р.116-122, 128-134: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Детские леггинсы Gatta,  р.92-98, 128-134, 140-146, 152-158: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40DEN Classic, Черный,  р.4, 5, 6: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40DEN Classic, Бежевый, р.4, 5, 6: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40DEN T-BAND, Черный, р.5: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40DEN T-BAND, Бежевый, р.2, 3, 4, 5: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40DEN BIKINI CHARM, Бежевый, р. 2, 3, 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 40DEN HIPSTER WAIST, Бежевый, р.2, 3, 4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Руслана 30DEN, Черный, 52-56 размер: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth 80DEN MICROFIBRE, Бежевый, р.4, 5: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гамаши под джинс на меху р.46-50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Модные джеггинсы р.46-54: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Гамаши под джинс "Махра со стразами" р.48-52: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Крутые гамаши под джинс "Махра" р.46-50: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские гамаши под джинс "Махра": 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth Prestige 40 den Classic, Капучино, р. 3, 4, 5: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Колготки Elizabeth Prestige 40 den Classic, Бежевый, р.4: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Джеггинсы с карманами. Код: К75.: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Брюки женские с карманами. Код: К78. Состав: 85% бамбук, 15% полиамид: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные джеггинсы больших размеров 50-58: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Джеггинсы со стразами, р.46-52. Код: К80. Состав: 55% хлопок, 40% полиестер, 5% спандекс: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные джеггинсы в горошек с прострочкой, р.46-52. Код: К81: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Бесшовные лосины под джинс со строчкой, р.44-50. Код: К82: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Однотонные бесшовные лосины, широкий пояс, р.46-52. Код: К83: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Error uploading Женские джинсы 98% коттон, размеры: 40-48: 400 {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'color' column of 'products' in the schema cache"}
+Traceback (most recent call last):
+  File "c:\Users\merce\.gemini\antigravity\scratch\MyProjects\LastochkaCDN\upload_to_supabase.py", line 59, in <module>
+    print(f"Error uploading {payload['code']}: {resp.status_code} {resp.text}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\merce\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\xfc' in position 32: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\merce\.gemini\antigravity\scratch\MyProjects\LastochkaCDN\upload_to_supabase.py", line 62, in <module>
+    print(safe_msg)
+    ~~~~~^^^^^^^^^^
+  File "C:\Users\merce\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\xfc' in position 32: character maps to <undefined>

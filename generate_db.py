@@ -62,6 +62,8 @@ def import_csv(conn: sqlite3.Connection) -> None:
     Empty strings are stored as ``NULL`` in the database.  ``price`` and
     ``quantity`` are converted to ``float``/``int`` when possible.
     """
+    # The CSV file uses English headers: code,name,vendor_code,color,price,stock,sizes
+    # Adjust the DictReader to use these column names.
     with CSV_PATH.open(encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         rows = []
@@ -70,19 +72,20 @@ def import_csv(conn: sqlite3.Connection) -> None:
             def n(val: str):
                 return val.strip() or None
 
-            code = n(row.get("Код товару"))
-            title = n(row.get("Заголовок"))
-            brand = n(row.get("Бренд"))
-            sku = n(row.get("Артикул постач."))
-            color = n(row.get("Колір"))
+            # Map CSV columns to the expected fields
+            code = n(row.get("code"))
+            title = n(row.get("name"))
+            brand = None  # No brand column in this CSV
+            sku = n(row.get("vendor_code"))
+            color = n(row.get("color"))
             # Price column is named "Ціна" – it may contain commas as decimal
-            price_raw = n(row.get("Ціна"))
+            price_raw = n(row.get("price"))
             try:
                 price = float(price_raw.replace(",", ".")) if price_raw else None
             except ValueError:
                 price = None
-            photo = n(row.get("фото"))
-            qty_raw = n(row.get("Кіл-ть"))
+            photo = None  # No photo column in this CSV
+            qty_raw = n(row.get("stock"))
             try:
                 quantity = int(float(qty_raw)) if qty_raw else None
             except ValueError:
