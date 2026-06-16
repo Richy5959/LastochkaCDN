@@ -16,30 +16,39 @@
     <div id="products" class="grid"></div>
 
     <script>
-        // ВСТАВЬ СЮДА НОВУЮ ССЫЛКУ ИЗ ГУГЛА:
-        const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyCUjjl1VKYiRwTG59Bnk5cLwFdVY_hCbiUpqwLtVt04zgF1NmX-1DETYAkeHRZEoDt/exec";
+        // ВСТАВЬ СЮДА ТУ САМУЮ ССЫЛКУ CSV, КОТОРУЮ ПОЛУЧИЛ ПОСЛЕ ПУБЛИКАЦИИ ТАБЛИЦЫ:
+        const CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQPKcEdZVXRHUy8b_a8Xkx61H7NlZbQXgZnGPm3JP1bEnqpQ2M4qFn_XNiEGejVDb5hYLdv-adT7n7r/pub?gid=876258765&single=true&output=csv";
 
         async function init() {
             try {
-                const response = await fetch(WEB_APP_URL);
-                const storeData = await response.json();
+                const response = await fetch(CSV_URL);
+                const csvText = await response.text();
                 
+                // Простая обработка CSV
+                const rows = csvText.split('\n').map(row => row.split(','));
+                const headers = rows[0].map(h => h.trim().toLowerCase());
+                const idxName = headers.indexOf("название ua");
+                const idxPhoto = headers.indexOf("путь к фото");
+
                 document.getElementById('status').style.display = 'none';
                 const container = document.getElementById('products');
                 
-                storeData["Товары"].forEach(item => {
-                    const imgUrl = item["фото"] ? "https://raw.githubusercontent.com/Richy5959/LastochkaCDN/main/" + item["фото"] : "";
+                rows.slice(1).forEach(row => {
+                    if (row.length < 2) return;
+                    const name = row[idxName];
+                    const photoPath = row[idxPhoto]?.trim();
+                    const imgUrl = photoPath ? "https://raw.githubusercontent.com/Richy5959/LastochkaCDN/main/" + photoPath : "";
+                    
                     const card = document.createElement('div');
                     card.className = 'card';
                     card.innerHTML = `
                         ${imgUrl ? `<img src="${imgUrl}">` : ''}
-                        <p>${item["назва"]}</p>
+                        <p>${name || "Товар"}</p>
                     `;
                     container.appendChild(card);
                 });
             } catch (err) {
                 document.getElementById('status').innerText = "Ошибка: " + err.message;
-                console.error(err);
             }
         }
         init();
